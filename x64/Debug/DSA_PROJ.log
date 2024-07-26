@@ -1,0 +1,4 @@
+﻿  Sorted_Lists.cpp
+C:\Users\SHAUKAT ALI\Desktop\DSA_PROJ\LinkList.h(672,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\SHAUKAT ALI\Desktop\DSA_PROJ\LinkList.h(701,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DSA_PROJ.vcxproj -> C:\Users\SHAUKAT ALI\Desktop\DSA_PROJ\x64\Debug\DSA_PROJ.exe

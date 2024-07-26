@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: DSA_PROJ, Configuration: Debug x64 ------
+1>Sorted_Lists.cpp
+1>C:\Users\jaffe\source\repos\DSA_PROJ\LinkList.h(672,1): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+1>C:\Users\jaffe\source\repos\DSA_PROJ\LinkList.h(701,1): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+1>DSA_PROJ.vcxproj -> C:\Users\jaffe\source\repos\DSA_PROJ\x64\Debug\DSA_PROJ.exe
+1>Done building project "DSA_PROJ.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
